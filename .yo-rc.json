@@ -1,0 +1,13 @@
+{
+  "generator-angular-library": {
+    "githubUsername": "phillipcurl",
+    "githubRepoName": "ngx-grid-layout",
+    "npmModuleName": "ngx-grid-layout",
+    "moduleGlobal": "ngxGridLayout",
+    "ngModuleName": "NgxGridLayoutModule",
+    "selectorPrefix": "grid",
+    "projectTitle": "ngx-grid-layout",
+    "projectDescription": "Angular component Layout engine using CSS Grid Layout",
+    "authorName": "Phillip Curl"
+  }
+}
