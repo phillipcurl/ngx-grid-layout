@@ -1,6 +1,6 @@
 {
   "name": "ngx-grid-layout",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "Angular component Layout engine using CSS Grid Layout",
   "main": "./bundles/ngx-grid-layout.umd.js",
   "module": "./index.js",
